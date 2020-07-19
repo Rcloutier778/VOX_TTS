@@ -1,0 +1,7 @@
+Read 76 physical / 76 logical HMMs
+Label file will be used to align each file
+Aligning File: ./tmp/tmp.plp
+Created lattice with 3 nodes / 2 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of sp is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of sp is 'tee' word in HVite
+sp ZULU sp  ==  [70 frames] 26.7041 [Ac=1869.3 LM=0.0] (Act=9.2)
